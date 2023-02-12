@@ -1,4 +1,10 @@
 # Praktikum7
+
+Nama        : Rio Rinto Saki
+NIM         : 312210715
+Kelas       : TI.22.C.9
+
+
 # Program Menghitung Nilai Mahasiswa 
 
 Pada praktek kali ini, saya mencoba membuat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa.
