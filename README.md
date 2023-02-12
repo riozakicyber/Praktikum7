@@ -73,7 +73,8 @@ if __name__ == '__main__':
 
 
 ```
-- Flowchart
+# Flowchart
+![Flowchart Praktikum7](https://user-images.githubusercontent.com/123881535/218322555-dfa0f20b-ad8f-4e07-a662-19c2c638ccb0.png)
 
 
 
